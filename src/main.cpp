@@ -2,7 +2,7 @@
  
 int main()
 {
-    std::cout<<"HI OBS Russia\n";
+    std::cout<<"HI fromm OBS Russia\n";
  
     return 0;
 }
